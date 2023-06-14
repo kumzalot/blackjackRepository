@@ -2,4 +2,3 @@ Still figuring out how github works, this readme says "this is the repo for uplo
 This initial version of the game will be text-based and features one player and one dealer.
 Future improvements could include adding multiplayer(online),graphics implementations,setting this up in a website,etc.
 
-disclaimer: above features are just ideas, they were not written by the assumption that it is doable.
